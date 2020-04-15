@@ -1,1 +1,1 @@
-"# python_pratice" 
+some pratice in python

@@ -9,3 +9,7 @@ test.py
 # cache
 __pycache__
 multiprocess/__pycache__
+
+
+# tmp file
+multiprocess/tmp_task.py
