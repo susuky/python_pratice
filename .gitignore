@@ -1,6 +1,11 @@
+# some test file
 test.py
-
 
 
 # jupyter checkpoints
 .ipynb_checkpoints
+
+
+# cache
+__pycache__
+multiprocess/__pycache__
