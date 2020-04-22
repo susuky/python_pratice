@@ -3,7 +3,7 @@ test.py
 
 
 # jupyter checkpoints
-/ipynb_checkpoints/
+ipynb_checkpoints
 
 
 # cache
