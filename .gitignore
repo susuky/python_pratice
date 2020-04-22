@@ -1,15 +1,16 @@
 # some test file
-test.py
+./test.py
 
 
 # jupyter checkpoints
-.ipynb_checkpoints
+./ipynb_checkpoints
 
 
 # cache
-__pycache__
-multiprocess/__pycache__
+./__pycache__
+./multiprocess/__pycache__
+./multiprocess/.ipynb_checkpoints
 
 
 # tmp file
-multiprocess/tmp_task.py
+./multiprocess/tmp_task.py
