@@ -7,10 +7,13 @@ test.py
 
 
 # cache
-__pycache__/
-/multiprocess/__pycache__/
-/multiprocess/.ipynb_checkpoints/
+__pycache__/*
+/multiprocess/__pycache__/*
+/multiprocess/.ipynb_checkpoints/*
 
 
 # tmp file
 /multiprocess/tmp_task.py
+
+# data
+data/*
