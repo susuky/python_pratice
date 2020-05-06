@@ -4,12 +4,13 @@ test.py
 
 # jupyter checkpoints
 .ipynb_checkpoints/*
-
+/multiprocess/.ipynb_checkpoints/*
+/tkinter/.ipynb_checkpoints/*
 
 # cache
 __pycache__/*
 /multiprocess/__pycache__/*
-/multiprocess/.ipynb_checkpoints/*
+
 
 
 # tmp file
@@ -17,3 +18,4 @@ __pycache__/*
 
 # data
 data/*
+tkinter/ins.gif
