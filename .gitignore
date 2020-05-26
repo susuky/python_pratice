@@ -19,3 +19,4 @@ __pycache__/*
 # data
 data/*
 tkinter/ins.gif
+dummy_data.txt
