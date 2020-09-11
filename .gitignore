@@ -6,6 +6,7 @@ test.py
 .ipynb_checkpoints/*
 /multiprocess/.ipynb_checkpoints/*
 /tkinter/.ipynb_checkpoints/*
+/leetcode/.ipynb_checkpoints/*
 
 # cache
 __pycache__/*
