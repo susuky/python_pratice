@@ -2,6 +2,11 @@
 data/* 
 tkinter/ins.gif 
 dummy_data.txt
+lish-moa/input/*
+*.csv
+
+# model
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
